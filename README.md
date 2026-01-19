@@ -4,3 +4,6 @@ fix for tbc classic anniversary 2.5.5 (build 65417)
 
 put the files into:
 `World of Warcraft\_anniversary_\Interface\AddOns\ECDC`
+
+gui menu may not show, use commands:
+`/ecdc hide` ` /ecdc show` ` /run ECDC_SetSize(1.2)`
