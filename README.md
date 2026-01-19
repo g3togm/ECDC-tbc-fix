@@ -6,4 +6,4 @@ put the files into:
 `World of Warcraft\_anniversary_\Interface\AddOns\ECDC`
 
 gui menu may not show, use commands:
-`/ecdc hide` ` /ecdc show` ` /run ECDC_SetSize(1.2)`
+`/ecdc hide` ` /ecdc show` ` /run ECDC_SetSize(x)` (x = scale, e.g. 1.0 = 100%)
