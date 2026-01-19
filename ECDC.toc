@@ -1,0 +1,12 @@
+## Interface: 20505
+## Title: Enemy Cooldown Count (Classic)
+## Version: 1.0.2-bc-fix2
+## Notes: Monitors everyone's cooldowns.
+## Author: Swagkhalifa
+## SavedVariables: ECDC_Pos, ECDC_Visi, ECDC_Size, ECDC_Row, ECDC_Border, ECDC_ShowTestIcons, ECDC_Padding, savedVersion
+## SavedVariablesPerCharacter: savedOptions
+
+Localization.lua
+ECDC_Options.lua
+ECDC.xml
+ECDC.lua
